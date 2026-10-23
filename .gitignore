@@ -1,0 +1,18 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos de configuración sensibles
+.env
+
+# Archivos generados por PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos temporales
+*.log
